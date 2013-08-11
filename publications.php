@@ -55,30 +55,35 @@ ACM MobiSys11, Washington, DC, June 2011.</br>
 Maria Gorlatova, Zainad Noorbhaiwala, Abraham Skolnik, John Sarik, Marcin Szczodrak, Jiasi Chen,
 Michael Zapas, Luca P Carloni, Peter Kinget, Ioannis Kymissis, Dan Rubenstein and Gil Zussman.</br>
 ACM MobiCom'10, Chicago, IL, September 2010</br>
+<a href="papers/gorlatova_mobicom10.pdf">(PDF)</a></br>
 </li>
 
 <li style="margin-bottom: 10px;">
 <b>Tiered Architecture for On-line Detection, Isolation, and Repair ofFaults in Wireless Sensor Networks</b></br>
 Sadaf Zahedi, Marcin Szczodrak, Ping Ji, Dinkar Mylaraswamy, Mani B Srivastava and Robert Young.</br>
 MILCOM, San Diego, CA, November 17-19, 2008</br>
+<a href="papers/zahedi_milcom08.pdf">(PDF)</a></br>
 </li>
 
 <li style="margin-bottom: 10px;">
 <b>Simulation Framework for QoI Characterization of Sensor Networks in the Presence of Faults</b></br>
 Marcin Szczodrak, Sadaf Zahedi, Ping Ji, Dinkar Mylaraswamy, Mani B Srivastava and Robert Young.</br>
 The Second Annual Conference of the International Technology Alliance, Imperial College London, UK, September 16-18, 2008</br>
+<a href="papers/szczodrak_ita08.pdf">(PDF)</a></br>
 </li>
 
 <li style="margin-bottom: 10px;">
 <b>Multivariate Model for Data Cleansing in Sensor Networks</b></br>
 Ping Ji and Marcin Szczodrak.</br>
 The Second Annual Conference of the International Technology Alliance, Imperial College London, UK, September 16-18, 2008</br>
+<a href="papers/ji_ita08.pdf">(PDF)</a></br>
 </li>
 
 <li style="margin-bottom: 10px;">
 <b>Two-Tier Framework for Sensor Fault Characterization in Sensor Networks</b></br>
 Sadaf Zahedi, Marcin Szczodrak, Ping Ji, Dinkar Mylaraswamy, Mani B Srivastava and Robert Young.</br>
 The Second Annual Conference of the International Technology Alliance, Imperial College London, UK, September 16-18, 2008</br>
+<a href="papers/zahedi_ita08.pdf">(PDF)</a></br>
 </li>
 
 <li style="margin-bottom: 10px;">
