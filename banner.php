@@ -23,7 +23,7 @@
       </a>
       <a href="https://github.com/mszczodrak" 
          style="text-decoration:none;">
-	 <img src="pics/github_circle_color.png" width="25" alt="GitHub">
+	 <img src="pics/github_square.png" width="25" alt="GitHub">
     </a>
     </td>
     </td>
