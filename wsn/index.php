@@ -130,8 +130,10 @@ echo "deb http://tinyprod.net/repos/debian squeeze main" | sudo tee $TOSPROD
 echo "deb http://tinyprod.net/repos/debian msp430-46 main" | sudo tee -a $TOSPROD
 
 sudo apt-get update
+<!--
 sudo apt-get install -y --assume-yes nesc 
 sudo apt-get install -y --assume-yes tinyos-tools
+-->
 sudo apt-get install -y --assume-yes msp430-46
 sudo apt-get install -y --assume-yes avr-tinyos
 
