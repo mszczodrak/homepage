@@ -14,7 +14,12 @@ sudo apt-get install -y --assume-yes g++
 sudo apt-get install -y --assume-yes python-dev
 sudo apt-get install -y --assume-yes git
 sudo apt-get install -y --assume-yes graphviz
-sudo apt-get install -y --assume-yes bison flex
+sudo apt-get install -y --assume-yes flex
+sudo apt-get install -y --assume-yes automake
+sudo apt-get install -y --assume-yes emacs
+sudo apt-get install -y --assume-yes bison
+sudo apt-get install -y --assume-yes flex
+sudo apt-get install -y --assume-yes gperf
 </pre>
 
 <h4>Pull TinyOS source code from repository</h4>
@@ -25,6 +30,14 @@ if [ ! -d github ]; then
 	mkdir github 
 fi
 cd github
+
+if [ -d nesc ]; then
+	cd nesc
+	git pull
+	cd ..
+else
+	git clone git@github.com:tinyos/nesc.git
+fi
 
 if [ -d tinyos-main ]; then
 	cd tinyos-main
@@ -49,6 +62,15 @@ ln -s tinyos-main tinyos
 
 </pre>
 
+
+<h4>Installing nesc from source</h4>
+cd
+cd github/nesc
+./Bootstrap
+./configure --prefix=/home/$USER/tools/nesc
+make
+make install
+
 <h4>Set environmental variables</h4>
 
 <pre>
@@ -68,6 +90,8 @@ echo export MAKERULES=$TOSROOT/support/make/Makerules >> $MY_PROFILE
 echo export PATH=/opt/msp430/bin:$PATH >> $MY_PROFILE
 echo export PYTHONPATH=.:$TOSROOT/support/sdk/python:$PYTHONPATH >> $MY_PROFILE
 echo export MOTECOM=serial@/dev/ttyUSB0:115200 >> $MY_PROFILE
+
+echo export PATH=${PATH}:/home/${USER}/tools/nesc/bin
 
 source ~/.profile
 </pre>
