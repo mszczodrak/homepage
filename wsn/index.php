@@ -86,26 +86,25 @@ make install
 
 <h4>Set environmental variables</h4>
 
+Add to ~/.profile file
+
 <pre>
-cd
-export MY_PROFILE="./.profile"
-export TOSROOT="/home/$USER/github/tinyos"
 
-sed -i '/tinyos/d' $MY_PROFILE
-sed -i '/msp430/d' $MY_PROFILE
-sed -i '/MOTECOM/d' $MY_PROFILE
+# Set the envoronment variables for TinyOS \n
+export TOSROOT=/home/${USER}/github/tinyos
+export TOSDIR=/home/${USER}/github/tinyos/tos
+export CLASSPATH=/home/${USER}/github/tinyos/support/sdk/java/tinyos.jar:.
+export MAKERULES=/home/${USER}/github/tinyos/support/make/Makerules
+export PATH=/opt/msp430/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/bin/X11:/usr/games
+export PYTHONPATH=.:/home/${USER}/github/tinyos/support/sdk/python:
+export MOTECOM=serial@/dev/ttyUSB0:115200
 
-echo "# Set the envoronment variables for TinyOS \n" >> $MY_PROFILE
-echo export TOSROOT=$TOSROOT >> $MY_PROFILE
-echo export TOSDIR=$TOSROOT/tos >> $MY_PROFILE
-echo export CLASSPATH=$TOSROOT/support/sdk/java/tinyos.jar:. >> $MY_PROFILE
-echo export MAKERULES=$TOSROOT/support/make/Makerules >> $MY_PROFILE
-echo export PATH=/opt/msp430/bin:$PATH >> $MY_PROFILE
-echo export PYTHONPATH=.:$TOSROOT/support/sdk/python:$PYTHONPATH >> $MY_PROFILE
-echo export MOTECOM=serial@/dev/ttyUSB0:115200 >> $MY_PROFILE
+export PATH=${PATH}:/home/${USER}/tools/nesc/bin:/home/${USER}/tools/tinyos-tools/bin
+</pre>
 
-echo export PATH=${PATH}:/home/${USER}/tools/nesc/bin:/home/${USER}/tools/tinyos-tools/bin
+and run 
 
+<pre>
 source ~/.profile
 </pre>
 
