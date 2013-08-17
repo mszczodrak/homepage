@@ -64,12 +64,14 @@ ln -s tinyos-main tinyos
 
 
 <h4>Installing nesc from source</h4>
+<pre>
 cd
 cd github/nesc
 ./Bootstrap
 ./configure --prefix=/home/$USER/tools/nesc
 make
 make install
+</pre>
 
 <h4>Set environmental variables</h4>
 
