@@ -73,6 +73,17 @@ make
 make install
 </pre>
 
+<h4>Installing tinyos tools</h4>
+<pre>
+cd
+cd github/tinyos/tools
+./Bootstrap
+./configure --prefix=/home/$USER/tools/tinyos-tools
+make
+make install
+</pre>
+
+
 <h4>Set environmental variables</h4>
 
 <pre>
@@ -93,7 +104,7 @@ echo export PATH=/opt/msp430/bin:$PATH >> $MY_PROFILE
 echo export PYTHONPATH=.:$TOSROOT/support/sdk/python:$PYTHONPATH >> $MY_PROFILE
 echo export MOTECOM=serial@/dev/ttyUSB0:115200 >> $MY_PROFILE
 
-echo export PATH=${PATH}:/home/${USER}/tools/nesc/bin
+echo export PATH=${PATH}:/home/${USER}/tools/nesc/bin:/home/${USER}/tools/tinyos-tools/bin
 
 source ~/.profile
 </pre>
