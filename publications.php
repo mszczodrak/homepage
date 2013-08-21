@@ -90,6 +90,7 @@ The Second Annual Conference of the International Technology Alliance, Imperial 
 <b>Two-Level ZigBee-4G Design for Secure and Efficient Communications in the Resources Constrained Military Environment</b></br>
 Marcin Szczodrak, Jinwoo Kim and Yuncheol Baek.</br>
 International Journal of Computer Science and Network Security, vol. 7 no.10, October 2007</br>
+<a href="papers/na.html">(PDF)</a></br>
 </li>
 
 <!--
@@ -103,12 +104,14 @@ Reconnaissance and Indirect Attack" hackin9, Issue 6/2007 (13), vol.2 no.6
 <b>4G and MANET, Wireless Network of Future Battlefield </b></br>
 Marcin Szczodrak and Jinwoo Kim.</br>
 Proceedings of the 2007 International Conference on Security & Management, Las Vegas, Nevada, USA, June 25-28, 2007.</br>
+<a href="papers/na.html">(PDF)</a></br>
 </li>
 
 <li style="margin-bottom: 10px;">
 <b>4GM@4GW: Implementing 4G in the Military Mobile Ad-Hoc Network Environment</b></br>
 Marcin Szczodrak, Jinwoo Kim and Yuncheol Baek.</br>
 International Journal of Computer Science and Network Security, vol.7 no.4, April 2007</br>
+<a href="papers/na.html">(PDF)</a></br>
 </li>
 
 </ul>
