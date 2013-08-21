@@ -15,8 +15,10 @@
   <li>Readings: everything related to green smart technology improving our 
       life, which is usually known through projects such as Smart Cities, 
       Smart Buildings, Intelligent Planet, etc
-  <li><b>Student Projects:</b> - <a href="./projects">Introduction to Projects</a>
+  <li><b>Mentoring Student Projects:</b> - <a href="./projects">Introduction to Projects</a>
     <ul>
+      <li><a href="./projects/2013-Spring-CS">Exploration of the Utilization of Compressed Sensing in Image Compression</a> (Spring 2013)
+      <li><a href="./projects/2013-Spring-Hadoop">Implementing Multi-cast Data Replication for Hadoop</a> (Spring 2013)
       <li><a href="./projects/2012-Fall-CS">Compressive Sampling on Hadoop</a> (Fall 2012)
       <li><a href="./projects/2012-Fall-WSNApps">Wireless Sensor Applications</a> (Fall 2012)
       <li><a href="./projects/2012-Spring-ISS">Industrial Sensor Systems</a> (Spring 2012)
@@ -29,7 +31,7 @@
 <h4>Past Activities</h4>
 <p>
 <ul>
-  <li>Big Data Analytics for Distibuted Self-Controlling Outdoor Lighting at 
+  <li>Big Data Analytics for Distributed Self-Controlling Outdoor Lighting at 
       <a href="http://www.research.philips.com/locations/briarcliff.html">Philips Research North America</a> (Summer 2013)
   <li>Outdoor Low-Power Wireless Testbed for SmartCity at 
       <a href="http://www.research.philips.com/locations/briarcliff.html">Philips Research North America</a> (Summer 2012)
