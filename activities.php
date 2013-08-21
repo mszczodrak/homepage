@@ -5,8 +5,6 @@
   <li>Graduate Research Assistant working in <a href="https://www.sld.cs.columbia.edu/">
       System Level Design Group</a>, under supervision of prof. <a href="http://www.cs.columbia.edu/~luca/">
       Luca Carloni</a>.
-  <li>Big Data Analytics for Distibuted Self-Controlling Outdoor Lighting at 
-      <a href="http://www.research.philips.com/locations/briarcliff.html">Philips Research North America</a> (Summer 2013)
   <li>Focus of my research is cyber-physical systems and building automation systems
   <li>Designed and developed <a href="http://smartcity.cs.columbia.edu/fennecfox">
       Fennec Fox Framework and Swift Fox programming language</a>
@@ -31,6 +29,8 @@
 <h4>Past Activities</h4>
 <p>
 <ul>
+  <li>Big Data Analytics for Distibuted Self-Controlling Outdoor Lighting at 
+      <a href="http://www.research.philips.com/locations/briarcliff.html">Philips Research North America</a> (Summer 2013)
   <li>Outdoor Low-Power Wireless Testbed for SmartCity at 
       <a href="http://www.research.philips.com/locations/briarcliff.html">Philips Research North America</a> (Summer 2012)
   <li>Intelligent Outdoor Lighting Network for SmartCity at 
