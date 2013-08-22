@@ -59,7 +59,7 @@ ACM MobiCom'10, Chicago, IL, September 2010</br>
 </li>
 
 <li style="margin-bottom: 10px;">
-<b>Tiered Architecture for On-line Detection, Isolation, and Repair ofFaults in Wireless Sensor Networks</b></br>
+<b>Tiered Architecture for On-line Detection, Isolation, and Repair of Faults in Wireless Sensor Networks</b></br>
 Sadaf Zahedi, Marcin Szczodrak, Ping Ji, Dinkar Mylaraswamy, Mani B Srivastava and Robert Young.</br>
 MILCOM, San Diego, CA, November 17-19, 2008</br>
 <a href="papers/zahedi_milcom08.pdf">(PDF)</a></br>
