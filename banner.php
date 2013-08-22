@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td valign="bottom" width="500">
-      <font size="+2"><b>Marcin Szczodrak</b></font><br>
+      <font size="+2"><b>Marcin K Szczodrak</b></font><br>
       <br>
       <font size="-1">
 	467 Computer Science Building<br>

@@ -1,10 +1,10 @@
 <html>
 <head>
-<meta name="description" content="Marcin Szczodrak Homepage" />
-<meta name="keywords" content="Marcin,Szczodrak,TinyOS,Embedded,System,Wireless,Network,Columbia,Research,Fennec,Swift,Cape,Low Power" />
-<meta name="author" content="Marcin Szczodrak" />
+<meta name="description" content="Marcin K Szczodrak Homepage" />
+<meta name="keywords" content="Marcin,Krzysztof,Szczodrak,TinyOS,Embedded,System,Wireless,Network,Columbia,Research,Fennec,Swift,Cape,Low Power" />
+<meta name="author" content="Marcin K Szczodrak" />
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-<title>Marcin Szczodrak</title>
+<title>Marcin K Szczodrak</title>
 <link rel="stylesheet" href="marcin_style.css">
 </head>
 

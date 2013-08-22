@@ -8,14 +8,17 @@
 <b>An Open Framework to Deploy Heterogeneous Wireless Testbed for Cyber-Physical Systems</b></br>
 Marcin Szczodrak, Yong Yang, Dave Cavalcanti, Luca P. Carloni</br>
 Proc. of IEEE SIES Symp, June, 2013.</br>
-<a href="papers/szczodrak_sies13.pdf">(PDF)</a></br>
+<a href="papers/szczodrak_sies13.pdf">(PDF)</a>
+<a href="papers/szczodrak_sies13.bib">(BibTex)</a></br>
 </li>
 
 <li style="margin-bottom: 10px;">
 <b>Dynamic Reconfiguration of Wireless Sensor Networks to Support Heterogeneous Applications</b></br>
 Marcin Szczodrak, Omprakash Gnawali and Luca P Carloni</br>
 Proc. IEEE DCOSS. May, 2013.</br>
-<a href="papers/szczodrak_dcoss13.pdf">(PDF)</a></br>
+<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6569409">(IEEE)</a>
+<a href="papers/szczodrak_dcoss13.pdf">(PDF)</a>
+<a href="papers/szczodrak_dcoss13.bib">(BibTex)</a></br>
 </li>
 
 <li style="margin-bottom: 10px;">
@@ -23,7 +26,9 @@ Proc. IEEE DCOSS. May, 2013.</br>
 Maria Gorlatova, Robert Margolies, John Sarik, Gerald Stanje, Jianxun Zhu, Baradwaj Vigraham, 
 Marcin Szczodrak, Luca P Carloni, Peter Kinget, Ioannis Kymissis and Gil Zussman.</br>
 Proc. IEEE INFOCOM'13 mini-conference, Turin, Italy, April, 2013.</br>
-<a href="papers/gorlatova_infocom13.pdf">(PDF)</a></br>
+<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6566840">(IEEE)</a>
+<a href="papers/gorlatova_infocom13.pdf">(PDF)</a>
+<a href="papers/gorlatova_infocom13.bib">(BibTex)</a></br>
 </li>
 
 
@@ -31,7 +36,9 @@ Proc. IEEE INFOCOM'13 mini-conference, Turin, Italy, April, 2013.</br>
 <b>Demo: A Complete Framework for Programming Event Driven, Self-Reconfigurable Low Power Wireless Networks</b></br>
 Marcin Szczodrak and Luca P Carloni.</br>
 ACM SenSys11, Seattle, WA, November, 2011.</br>
-<a href="papers/szczodrak_sensys11.pdf">(PDF)</a></br>
+<a href="http://dl.acm.org/citation.cfm?id=2070942.2071017">(ACM)</a>
+<a href="papers/szczodrak_sensys11.pdf">(PDF)</a>
+<a href="papers/szczodrak_sensys11.bib">(BibTex)</a></br>
 </li>
 
 <li style="margin-bottom: 10px;">
@@ -39,7 +46,9 @@ ACM SenSys11, Seattle, WA, November, 2011.</br>
 Gerald Stanje, Paul Miller, Jianxun Zhu, Alexander Smith, Olivia Winn, Robert Margolies, Maria Gorlatova,
 John Sarik, Marcin Szczodrak, Baradwaj Vigraham, Luca P Carloni, Peter Kinget, Ioannis Kymissis and Gil Zussman.</br>
 ACM SenSys11, Seattle, WA, November, 2011.</br>
-<a href="papers/stanje_sensys11.pdf">(PDF)</a></br>
+<a href="http://dl.acm.org/citation.cfm?id=2070942.2071002">(ACM)</a>
+<a href="papers/stanje_sensys11.pdf">(PDF)</a>
+<a href="papers/stanje_sensys11.bib">(BibTex)</a></br>
 </li>
 
 <li style="margin-bottom: 10px;">
@@ -47,7 +56,9 @@ ACM SenSys11, Seattle, WA, November, 2011.</br>
 Jianxun Zhu, Gerald Stanje, Robert Margolies, Maria Gorlatova, John Sarik, Zainab Noorbhaiwala,
 Paul Miller, Marcin Szczodrak, Baradwaj Vigraham, Luca P Carloni, Peter Kinget, Ioannis Kymissis and Gil Zussman.</br>
 ACM MobiSys11, Washington, DC, June 2011.</br>
-<a href="papers/zhu_mobisys11.pdf">(PDF)</a></br>
+<a href="http://dl.acm.org/citation.cfm?id=1999995.2000048">(ACM)</a>
+<a href="papers/zhu_mobisys11.pdf">(PDF)</a>
+<a href="papers/zhu_mobisys11.bib">(BibTex)</a></br>
 </li>
 
 <li style="margin-bottom: 10px;">
@@ -62,6 +73,7 @@ ACM MobiCom'10, Chicago, IL, September 2010</br>
 <b>Tiered Architecture for On-line Detection, Isolation, and Repair of Faults in Wireless Sensor Networks</b></br>
 Sadaf Zahedi, Marcin Szczodrak, Ping Ji, Dinkar Mylaraswamy, Mani B Srivastava and Robert Young.</br>
 MILCOM, San Diego, CA, November 17-19, 2008</br>
+<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=4753634">(IEEE)</a>
 <a href="papers/zahedi_milcom08.pdf">(PDF)</a></br>
 </li>
 
