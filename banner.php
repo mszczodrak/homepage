@@ -10,7 +10,7 @@
 	New York, NY 10027-7003<br>
       </font>
       <br>
-      <img src="./pics/email.jpg" width=240> <br>
+      <img src="pics/email.jpg" width=240> <br>
     <td width="100" align="right" valign="bottom">
       <a href="//plus.google.com/103712325633775186011?prsrc=3"
         rel="publisher" target="_top" style="text-decoration:none;">
