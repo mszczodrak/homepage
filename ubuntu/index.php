@@ -32,8 +32,12 @@ sudo apt-get install -y --assume-yes lyx
 sudo apt-get install -y --assume-yes make
 sudo apt-get install -y --assume-yes mc
 sudo apt-get install -y --assume-yes nmap
+sudo apt-get install -y --assume-yes openjdk-7-jdk
 sudo apt-get install -y --assume-yes patch
 sudo apt-get install -y --assume-yes python-dev
+sudo apt-get install -y --assume-yes python-matplotlib
+sudo apt-get install -y --assume-yes python-numpy
+sudo apt-get install -y --assume-yes python-scipy
 sudo apt-get install -y --assume-yes sed
 sudo apt-get install -y --assume-yes subversion
 sudo apt-get install -y --assume-yes terminator
@@ -48,6 +52,7 @@ sudo apt-get install -y --assume-yes unzip
 sudo apt-get install -y --assume-yes vim
 sudo apt-get install -y --assume-yes wget
 sudo apt-get install -y --assume-yes yum
+
 
 </pre>
 
