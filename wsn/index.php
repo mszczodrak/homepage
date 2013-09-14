@@ -8,18 +8,18 @@ include("../top.php");
 
 <pre>
 sudo apt-get update
+sudo apt-get install -y --assume-yes automake
+sudo apt-get install -y --assume-yes bison
 sudo apt-get install -y --assume-yes build-essential
+sudo apt-get install -y --assume-yes emacs
+sudo apt-get install -y --assume-yes flex
 sudo apt-get install -y --assume-yes gcc
+sudo apt-get install -y --assume-yes git
+sudo apt-get install -y --assume-yes gperf
+sudo apt-get install -y --assume-yes graphviz
 sudo apt-get install -y --assume-yes g++
 sudo apt-get install -y --assume-yes python-dev
-sudo apt-get install -y --assume-yes git
-sudo apt-get install -y --assume-yes graphviz
-sudo apt-get install -y --assume-yes flex
-sudo apt-get install -y --assume-yes automake
-sudo apt-get install -y --assume-yes emacs
-sudo apt-get install -y --assume-yes bison
-sudo apt-get install -y --assume-yes flex
-sudo apt-get install -y --assume-yes gperf
+sudo apt-get install -y --assume-yes openjdk-7-jdk
 </pre>
 
 <h4>Pull TinyOS source code from repository</h4>
