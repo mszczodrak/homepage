@@ -1,6 +1,6 @@
 <table>
 	<tr>
-	<td valign="bottom" width="500">
+	<td valign="bottom" width="450">
 		<font size="+2"><b>Marcin K Szczodrak</b></font><br>
 		<br>
 		<font size="-1">
@@ -12,7 +12,12 @@
 		<br>
 		<img src="pics/email.jpg" width=240> <br>
 	</td>
-	<td width="100" align="right" valign="bottom">
+	<td width="150" align="right" valign="bottom">
+	<a href="http://nikeplus.nike.com/plus/profile/mszczodrak/"
+		style="text-decoration:none;">
+		<img src="pics/nike_plus_icon.png" width="25"
+			alt="Nike+ (requires Nike+ account)">
+	</a>
 	<a href="//plus.google.com/103712325633775186011?prsrc=3"
 		rel="publisher" target="_top" style="text-decoration:none;">
 		<img src="pics/google_plus.png" width="25" alt="Google+"/>
@@ -26,11 +31,7 @@
 		<img src="pics/github_circle_color.png" width="25" alt="GitHub">
 	</a>
 	<a>
-	<a href="http://nikeplus.nike.com/plus/profile/mszczodrak/"
-		style="text-decoration:none;">
-		<img src="pics/nike_plus_icon.png" width="25"
-			alt="Nike+ (requires Nike+ account)">
-	</a>
+
 	</td>
 	<td width="200" align="right">
 		<img src="pics/marcin_09_2012.jpg" width=130>
