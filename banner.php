@@ -1,6 +1,6 @@
 <table>
 	<tr>
-	<td valign="bottom" width="450">
+	<td valign="bottom" width="480">
 		<font size="+2"><b>Marcin K Szczodrak</b></font><br>
 		<br>
 		<font size="-1">
@@ -12,7 +12,7 @@
 		<br>
 		<img src="pics/email.jpg" width=240> <br>
 	</td>
-	<td width="150" align="right" valign="bottom">
+	<td width="120" align="right" valign="bottom">
 	<a href="http://nikeplus.nike.com/plus/profile/mszczodrak/"
 		style="text-decoration:none;">
 		<img src="pics/nike_plus_icon.png" width="25"
