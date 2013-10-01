@@ -5,6 +5,15 @@
 <ul>
 
 <li style="margin-bottom: 10px;">
+<b>Modeling and Implementation of Energy Neutral Sensing Systems</b></br>
+Marcin Szczodrak, Omprakash Gnawali and Luca P Carloni</br>
+Proc. of ENSSys Work., November, 2013.</br>
+<a href="papers/na.html">(PDF)</a></br>
+<a href="papers/szczodrak_sies13.pdf">(PDF)</a>
+<a href="papers/szczodrak_sies13.bib">(BibTex)</a></br>
+</li>
+
+<li style="margin-bottom: 10px;">
 <b>An Open Framework to Deploy Heterogeneous Wireless Testbed for Cyber-Physical Systems</b></br>
 Marcin Szczodrak, Yong Yang, Dave Cavalcanti, Luca P. Carloni</br>
 Proc. of IEEE SIES Symp, June, 2013.</br>
