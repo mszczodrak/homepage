@@ -16,7 +16,7 @@ Proc. of ENSSys Work., November, 2013.</br>
 <li style="margin-bottom: 10px;">
 <b>An Open Framework to Deploy Heterogeneous Wireless Testbed for Cyber-Physical Systems</b></br>
 Marcin Szczodrak, Yong Yang, Dave Cavalcanti and Luca P Carloni</br>
-Proc. of IEEE SIES Symp, June, 2013.</br>
+Proc. of IEEE SIES Symp., June, 2013.</br>
 <a href="papers/szczodrak_sies13.pdf">(PDF)</a>
 <a href="papers/szczodrak_sies13.bib">(BibTex)</a></br>
 </li>
@@ -24,7 +24,7 @@ Proc. of IEEE SIES Symp, June, 2013.</br>
 <li style="margin-bottom: 10px;">
 <b>Dynamic Reconfiguration of Wireless Sensor Networks to Support Heterogeneous Applications</b></br>
 Marcin Szczodrak, Omprakash Gnawali and Luca P Carloni</br>
-Proc. IEEE DCOSS Conf. May, 2013.</br>
+Proc. IEEE DCOSS Conf., May, 2013.</br>
 <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6569409">(IEEE)</a>
 <a href="papers/szczodrak_dcoss13.pdf">(PDF)</a>
 <a href="papers/szczodrak_dcoss13.bib">(BibTex)</a></br>
