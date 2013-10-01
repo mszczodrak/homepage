@@ -10,7 +10,7 @@ Marcin Szczodrak, Omprakash Gnawali and Luca P Carloni</br>
 Proc. of ENSSys Work., November, 2013.</br>
 <a href="papers/na.html">(PDF)</a>
 <!--<a href="papers/szczodrak_sies13.pdf">(PDF)</a>-->
-<a href="papers/szczodrak_sies13.bib">(BibTex)</a></br>
+<a href="papers/szczodrak_enssys13.bib">(BibTex)</a></br>
 </li>
 
 <li style="margin-bottom: 10px;">
