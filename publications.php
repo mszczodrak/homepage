@@ -1,12 +1,6 @@
 <a name="publications"></a>
 <h4>Publications</h4>
 
-CM DL Article: Demo: A complete framework for programming event-driven, self-reconfigurable low power wireless networks -->
-<div class="acmdlitem" id="item2071017"><img src="http://dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/><a href="http://dl.acm.org/authorize?6503395" title="Demo: A complete framework for programming event-driven, self-reconfigurable low power wireless networks">Demo: A complete framework for programming event-driven, self-reconfigurable low power wireless networks</a><div style="margin-left:25px"><a href="http://dl.acm.org/author_page.cfm?id=81486654931" >Marcin Szczodrak</a>, <a href="http://dl.acm.org/author_page.cfm?id=81100362720" >Luca Carloni</a><br />SenSys '11 Proceedings of the 9th ACM Conference on Embedded Networked Sensor Systems,&nbsp;2011</div></div>
-<!-- ACM DL Bibliometrics: Demo: A complete framework for programming event-driven, self-reconfigurable low power wireless networks-->
-<div class="acmdlstat" id ="stats2071017"><iframe src="http://dl.acm.org/authorizestats?6503395" width="100%" height="30" scrolling="no" frameborder="0">frames are not supported</iframe></div>
-
-
 
 <ul>
 
@@ -51,13 +45,12 @@ Proc. IEEE INFOCOM'13 mini-conference, Turin, Italy, April, 2013.</br>
 <b>Demo: A Complete Framework for Programming Event Driven, Self-Reconfigurable Low Power Wireless Networks</b></br>
 Marcin Szczodrak and Luca P Carloni.</br>
 ACM SenSys11, Seattle, WA, November, 2011.</br>
-
-
-
+<a href="http://dl.acm.org/authorize?6503395">(PDF: ACM Author-Izer)</a>
 <a href="http://dl.acm.org/citation.cfm?id=2070942.2071017">(ACM)</a>
 <a href="papers/szczodrak_sensys11.pdf">(PDF)</a>
 <a href="papers/szczodrak_sensys11.bib">(BibTex)</a></br>
 </li>
+
 
 <li style="margin-bottom: 10px;">
 <b>Demo: Organic Solar Cell-equipped Energy Harvesting Active Networked Tag (EnHANT) Prototypes</b></br>
