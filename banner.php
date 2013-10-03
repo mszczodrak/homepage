@@ -1,6 +1,6 @@
 <table>
 	<tr>
-	<td valign="bottom" width="480">
+	<td valign="bottom" width="450">
 		<font size="+2"><b>Marcin K Szczodrak</b></font><br>
 		<br>
 		<font size="-1">
@@ -12,7 +12,7 @@
 		<br>
 		<img src="pics/email.jpg" width=240> <br>
 	</td>
-	<td width="120" align="right" valign="bottom">
+	<td width="150" align="right" valign="bottom">
 	<a href="http://dl.acm.org/author_page.cfm?id=81486654931"
 		style="text-decoration:none;">
 		<img src="pics/acm_logo.jpg" width="25"
