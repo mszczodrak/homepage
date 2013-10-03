@@ -41,7 +41,6 @@ Proc. IEEE INFOCOM'13 mini-conference, Turin, Italy, April, 2013.</br>
 <a href="papers/gorlatova_infocom13.bib">(BibTex)</a></br>
 </li>
 
-
 <li style="margin-bottom: 10px;">
 <b>Demo: A Complete Framework for Programming Event Driven, Self-Reconfigurable Low Power Wireless Networks</b></br>
 Marcin Szczodrak and Luca P Carloni.</br>
@@ -51,7 +50,6 @@ ACM SenSys11, Seattle, WA, November, 2011.</br>
 <a href="papers/szczodrak_sensys11.pdf">(PDF)</a>
 <a href="papers/szczodrak_sensys11.bib">(BibTex)</a></br>
 </li>
-
 
 <li style="margin-bottom: 10px;">
 <b>Demo: Organic Solar Cell-equipped Energy Harvesting Active Networked Tag (EnHANT) Prototypes</b></br>
