@@ -13,6 +13,11 @@
 		<img src="pics/email.jpg" width=240> <br>
 	</td>
 	<td width="120" align="right" valign="bottom">
+	<a href="http://dl.acm.org/author_page.cfm?id=81486654931"
+		style="text-decoration:none;">
+		<img src="pics/acm_logo.jpg" width="25"
+			alt="ACM">
+	</a>
 	<a href="http://nikeplus.nike.com/plus/profile/mszczodrak/"
 		style="text-decoration:none;">
 		<img src="pics/nike_plus_icon.png" width="25"
@@ -20,7 +25,7 @@
 	</a>
 	<a href="//plus.google.com/103712325633775186011?prsrc=3"
 		rel="publisher" target="_top" style="text-decoration:none;">
-		<img src="pics/google_plus.png" width="25" alt="Google+"/>
+		<img src="pics/google_plus.png" width="25" alt="Google+">
 	</a>
 	<a href="http://www.linkedin.com/pub/marcin-szczodrak/31/493/591"
 		style="text-decoration:none;">

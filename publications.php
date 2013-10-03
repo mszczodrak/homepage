@@ -17,6 +17,7 @@ Proc. of ENSSys Work., November, 2013.</br>
 <b>An Open Framework to Deploy Heterogeneous Wireless Testbed for Cyber-Physical Systems</b></br>
 Marcin Szczodrak, Yong Yang, Dave Cavalcanti and Luca P Carloni</br>
 Proc. of IEEE SIES Symp., June, 2013.</br>
+<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6601494">(IEEE)</a>
 <a href="papers/szczodrak_sies13.pdf">(PDF)</a>
 <a href="papers/szczodrak_sies13.bib">(BibTex)</a></br>
 </li>
