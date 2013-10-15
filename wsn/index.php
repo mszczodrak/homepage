@@ -2,7 +2,11 @@
 include("../top.php");
 ?>
 
+<meta name="keywords" content="tinyos, ubuntu, install, installing, 10.04, 12.04, 13.04, 13.10, lucid, precise, quantal, raring, TinyOS, github" />
+
 <h2>Wireless Sensor Network</h2>
+
+Installing TinyOS from github repository on Ubuntu OS.
 
 <h4>Install Pre-requisites</h4>
 
