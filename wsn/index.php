@@ -2,7 +2,7 @@
 include("../top.php");
 ?>
 
-<meta name="keywords" content="tinyos, ubuntu, install, installing, 10.04, 12.04, 13.04, 13.10, lucid, precise, quantal, raring, TinyOS, github" />
+<meta name="keywords" content="tinyos, ubuntu, install, installing, 10.04, 12.04, 13.04, 13.10, lucid, precise, quantal, raring, TinyOS, github, tinyprod, msp430, nesc" />
 
 <h2>Wireless Sensor Network</h2>
 
