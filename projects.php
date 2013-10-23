@@ -7,7 +7,7 @@
 <tr><td width="200">
 <center>
 <b>Fennec Fox</b><br>
-<img src="./pics/interfaces_layers_small.png" width="200">
+<img src="./pics/fennec_stack_states.png" width="200">
 </center>
 </td><td align="left">
 <b>Fennec Fox</b> is a platform for low-power wireless embedded devices
