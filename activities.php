@@ -8,7 +8,7 @@
   <li>Focus of my research is cyber-physical systems and building automation systems
   <li>Designed and developed <a href="http://smartcity.cs.columbia.edu/fennecfox">
       Fennec Fox Framework and Swift Fox programming language</a>
-  <li>Research Interests: <a href = "./wsn/index.html">Wireless Sensor Networks</a>,
+  <li>Research Interests: <a href = "./wsn/">Wireless Sensor Networks</a>,
       <a href="http://smartcity.cs.columbia.edu">Embedded Systems</a>,
       Network Management and Reconfiguration, Low-Power Radio Devices,
       Software-defined Radio, Pervasive computing
