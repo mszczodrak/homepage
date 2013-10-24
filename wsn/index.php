@@ -4,7 +4,16 @@ include("../top.php");
 
 <meta name="keywords" content="tinyos, ubuntu, install, installing, 10.04, 12.04, 13.04, 13.10, lucid, precise, quantal, raring, TinyOS, github, tinyprod, msp430, nesc" />
 
-<h2>Wireless Sensor Network</h2>
+<h2>Installing TinyOS by running a script</h2>
+1. Download the <a href="./scripts/install_tinyos.sh">install_tinyos.sh</a> script.
+
+2. Do: <code>$ chmod +x install_tinyos.sh</code>
+
+3. Run script: <code>$ ./install_tinyos.sh</code>
+
+<b>or</b> 
+
+<h2>Follow step-by-step instalation process</h2>
 
 Installing TinyOS from github repository on Ubuntu OS.
 
