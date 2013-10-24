@@ -105,19 +105,23 @@ sudo apt-get update
 sudo apt-get install -y --assume-yes msp430-46
 sudo apt-get install -y --assume-yes avr-tinyos
 
-#Set environmental variables
-#echo "# Set the envoronment variables for TinyOS \n" | sudo tee -a $(PROFILE_FILE)
-#echo export TOSROOT=$(INSTALL_DIR)/tinyos | sudo tee -a $($PROFILE_FILE)
-#echo export TOSDIR=$(INSTALL_DIR)/tinyos/tos | sudo tee -a $($PROFILE_FILE)
-#echo export CLASSPATH=$(INSTALL_DIR)/tinyos/support/sdk/java/tinyos.jar:. | sudo tee -a $($PROFILE_FILE)
-#echo export MAKERULES=$(INSTALL_DIR)/tinyos/support/make/Makerules | sudo tee -a $($PROFILE_FILE)
-#echo export PATH=/opt/msp430/bin:$PATH | sudo tee -a $($PROFILE_FILE)
-#echo export PYTHONPATH=.:/opt/tinyos-2.x/support/sdk/python:$PYTHONPATH | sudo tee -a $($PROFILE_FILE)
-#echo export MOTECOM=serial@/dev/ttyUSB0:115200 >> $($PROFILE_FILE)    
+# Set environmental variables
+echo 'Setting environmental variables'
+echo " " | sudo tee -a $PROFILE_FILE
+echo "# Set the envoronment variables for TinyOS" | sudo tee -a $PROFILE_FILE
+echo export TOSROOT=$INSTALL_DIR/tinyos | sudo tee -a $PROFILE_FILE
+echo export TOSDIR=$INSTALL_DIR/tinyos/tos | sudo tee -a $PROFILE_FILE
+echo export CLASSPATH=$INSTALL_DIR/tinyos/support/sdk/java/tinyos.jar:. | sudo tee -a $PROFILE_FILE
+echo export MAKERULES=$INSTALL_DIR/tinyos/support/make/Makerules | sudo tee -a $PROFILE_FILE
+echo export PATH=$PATH:$INSTALL_DIR/tools/nesc/bin:$INSTALL_DIR/tools/tinyos-tools/bin:$INSTALL_DIR/tools/usr/bin | sudo tee -a $PROFILE_FILE
+echo export PYTHONPATH=.:$INSTALL_DIR/tinyos/support/sdk/python:$PYTHONPATH | sudo tee -a $PROFILE_FILE
+echo export MOTECOM=serial@/dev/ttyUSB0:115200 >> $PROFILE_FILE
 #echo export INTELMOTE2_CONTRIB_DIR=/opt/tinyos-2.x-contrib/intelmote
+echo " " | sudo tee -a $PROFILE_FILE
+
+echo "Run "
+echo "$ source ~/.profile "
+echo "or"
+echo "logout and login"
 
 
-
-
-
-#Add to ~/.profile file 
