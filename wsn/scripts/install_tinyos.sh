@@ -85,7 +85,7 @@ make install
 echo 'Installing tinyos tools from source code'
 
 cd $INSTALL_DIR/github
-cd tools
+cd tinyos/tools
 ./Bootstrap
 ./configure --prefix=$INSTALL_DIR/tools/tinyos-tools
 make
