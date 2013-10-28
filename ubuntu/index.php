@@ -20,6 +20,7 @@ sudo apt-get install -y --assume-yes emacs
 sudo apt-get install -y --assume-yes flex
 sudo apt-get install -y --assume-yes gawk
 sudo apt-get install -y --assume-yes gcc
+sudo apt-get install -y --assume-yes gfortran
 sudo apt-get install -y --assume-yes git
 sudo apt-get install -y --assume-yes git-core
 sudo apt-get install -y --assume-yes gperf
@@ -32,9 +33,11 @@ sudo apt-get install -y --assume-yes linux-headers-$(uname -r)
 sudo apt-get install -y --assume-yes lyx
 sudo apt-get install -y --assume-yes make
 sudo apt-get install -y --assume-yes mc
+sudo apt-get install -y --assume-yes m4
 sudo apt-get install -y --assume-yes nmap
 sudo apt-get install -y --assume-yes openjdk-7-jdk
 sudo apt-get install -y --assume-yes patch
+sudo apt-get install -y --assume-yes perl
 sudo apt-get install -y --assume-yes python-dev
 sudo apt-get install -y --assume-yes python-matplotlib
 sudo apt-get install -y --assume-yes python-numpy
