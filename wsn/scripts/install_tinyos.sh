@@ -3,7 +3,7 @@
 # Email: marcin@ieee.org
 # Last Updated: October 18, 2013
 
-INSTALL_DIR=/home/$USER/github/tinyos
+INSTALL_DIR=/home/$USER
 PROFILE_FILE=/home/$USER/.profile
 
 
