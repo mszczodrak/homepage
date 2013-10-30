@@ -23,7 +23,7 @@
 		<img src="pics/nike_plus_icon.png" width="25"
 			alt="Nike+ (requires Nike+ account)">
 	</a>
-	<a href="//plus.google.com/103712325633775186011?prsrc=3"
+	<a href="http://google.com/+MarcinSzczodrak"
 		rel="publisher" target="_top" style="text-decoration:none;">
 		<img src="pics/google_plus.png" width="25" alt="Google+">
 	</a>
