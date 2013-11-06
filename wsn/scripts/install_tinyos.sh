@@ -38,6 +38,16 @@ if [ ! -d github ]; then
 	mkdir github 
 fi
 
+cd $INSTALL_DIR
+if [ ! -d tools ]; then
+	mkdir tools
+fi
+
+cd $INSTALL_DIR/github
+if [ -L tinyos ]; then
+	rm tinyos
+fi
+
 cd $INSTALL_DIR/github
 if [ -d nesc ]; then
 	cd nesc
@@ -61,11 +71,6 @@ if [ -d tinyos-release ]; then
 	cd ..
 else
 	git clone git@github.com:tinyos/tinyos-release.git
-fi
-
-cd $INSTALL_DIR/github
-if [ -L tinyos ]; then
-	rm tinyos
 fi
 
 echo 'Setting the TinyOS development branch as the default version'
