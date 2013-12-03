@@ -9,6 +9,7 @@
 Marcin K Szczodrak, Omprakash Gnawali and Luca P Carloni</br>
 Proc. of ENSSys Work., November, 2013.</br>
 <!--<a href="papers/na.html">(PDF)</a>-->
+<a href="http://dl.acm.org/citation.cfm?id=2534211">(ACM)</a>
 <a href="papers/szczodrak_enssys13.pdf">(PDF)</a>
 <a href="papers/szczodrak_enssys13.bib">(BibTex)</a></br>
 </li>
@@ -46,7 +47,7 @@ Proc. IEEE INFOCOM'13 mini-conference, Turin, Italy, April, 2013.</br>
 Marcin K Szczodrak and Luca P Carloni.</br>
 ACM SenSys11, Seattle, WA, November, 2011.</br>
 <a href="http://dl.acm.org/authorize?6503395">(PDF: ACM Author-Izer)</a>
-<a href="http://dl.acm.org/citation.cfm?id=2070942.2071017">(ACM)</a>
+<a href="http://dl.acm.org/citation.cfm?id=2071017">(ACM)</a>
 <a href="papers/szczodrak_sensys11.pdf">(PDF)</a>
 <a href="papers/szczodrak_sensys11.bib">(BibTex)</a></br>
 </li>
@@ -57,7 +58,7 @@ Gerald Stanje, Paul Miller, Jianxun Zhu, Alexander Smith, Olivia Winn, Robert Ma
 John Sarik, Marcin K Szczodrak, Baradwaj Vigraham, Luca P Carloni, Peter Kinget, Ioannis Kymissis and Gil Zussman.</br>
 ACM SenSys11, Seattle, WA, November, 2011.</br>
 <a href="http://dl.acm.org/authorize?6503370">(PDF: ACM Author-Izer)</a>
-<a href="http://dl.acm.org/citation.cfm?id=2070942.2071002">(ACM)</a>
+<a href="http://dl.acm.org/citation.cfm?id=2071002">(ACM)</a>
 <a href="papers/stanje_sensys11.pdf">(PDF)</a>
 <a href="papers/stanje_sensys11.bib">(BibTex)</a></br>
 </li>
@@ -68,7 +69,7 @@ Jianxun Zhu, Gerald Stanje, Robert Margolies, Maria Gorlatova, John Sarik, Zaina
 Paul Miller, Marcin K Szczodrak, Baradwaj Vigraham, Luca P Carloni, Peter Kinget, Ioannis Kymissis and Gil Zussman.</br>
 ACM MobiSys11, Washington, DC, June 2011.</br>
 <a href="http://dl.acm.org/authorize?446157">(PDF: ACM Author-Izer)</a>
-<a href="http://dl.acm.org/citation.cfm?id=1999995.2000048">(ACM)</a>
+<a href="http://dl.acm.org/citation.cfm?id=2000048">(ACM)</a>
 <a href="papers/zhu_mobisys11.pdf">(PDF)</a>
 <a href="papers/zhu_mobisys11.bib">(BibTex)</a></br>
 </li>
