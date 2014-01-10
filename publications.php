@@ -9,6 +9,12 @@
 Marcin K Szczodrak, Omprakash Gnawali and Luca P Carloni</br>
 Proc. of ENSSys Work., November, 2013.</br>
 <!--<a href="papers/na.html">(PDF)</a>-->
+<a href="http://dl.acm.org/authorize?6969745">(PDF: ACM Author-Izer)</a>
+
+<div class="acmdlitem" id="item2534211"><img src="http://dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/><a href="http://dl.acm.org/authorize?6969745" title="Modeling and implementation of energy neutral sensing systems">Modeling and implementation of energy neutral sensing systems</a><div style="margin-left:25px"><a href="http://dl.acm.org/author_page.cfm?id=81486654931" >Marcin K. Szczodrak</a>, <a href="http://dl.acm.org/author_page.cfm?id=81312485641" >Omprakash Gnawali</a>, <a href="http://dl.acm.org/author_page.cfm?id=81100362720" >Luca P. Carloni</a><br />ENSSys '13 Proceedings of the 1st International Workshop on Energy Neutral Sensing Systems,&nbsp;2013</div></div>
+
+
+
 <a href="http://dl.acm.org/citation.cfm?id=2534211">(ACM)</a>
 <a href="papers/szczodrak_enssys13.pdf">(PDF)</a>
 <a href="papers/szczodrak_enssys13.bib">(BibTex)</a></br>
