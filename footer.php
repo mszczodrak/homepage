@@ -1,5 +1,5 @@
 <div align="center">
-<font size="-2"> <b>Copyright <a href="http://www.cs.columbia.edu/~msz">Marcin Szczodrak</a> 2005-2013</b></font>
+<font size="-2"> <b>Copyright <a href="http://www.cs.columbia.edu/~msz">Marcin Szczodrak</a> 2005-2014</b></font>
 </div>
 
 </div>
