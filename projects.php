@@ -75,7 +75,7 @@ it support serial port communication, and by the same real-time data exchange wi
 outside (non-simulated) world. Cape Fox differs from TOSSIM by removing simulation
 of CSMA and MAC protocols and improving (adding new parameters) simulation of
 radio hardware and radio channel. Cape Fox is also <em>message_t</em> free.
-More @ <a href="http://smartcity.cs.columbia.edu/capefox/">Project Website</a> 
+More @ <a href="https://github.com/mszczodrak/fennec-fox/wiki/CapeFox-Simulator">Project Website</a> 
 </td></tr>
 
 
