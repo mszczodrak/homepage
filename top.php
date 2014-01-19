@@ -7,6 +7,7 @@
 <title>Marcin K Szczodrak</title>
 <link rel="stylesheet" href="marcin_style.css">
 </head>
+<body>
 
 <SCRIPT LANGUAGE="JavaScript">
 <!-- Begin
