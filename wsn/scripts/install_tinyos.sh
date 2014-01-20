@@ -65,7 +65,7 @@ if [ -d $TINYOS_VERSION ]; then
 	git pull
 else
 	#git clone git@github.com:tinyos/$TINYOS_VERSION.git
-	git clone https://github.com/tinyos/$(TINYOS_VERSION).git
+	git clone https://github.com/tinyos/$TINYOS_VERSION.git
 fi
 
 cd $INSTALL_DIR/github
