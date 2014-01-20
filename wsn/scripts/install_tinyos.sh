@@ -55,7 +55,8 @@ if [ -d nesc ]; then
 	cd nesc
 	git pull	
 else
-	git clone git@github.com:tinyos/nesc.git
+	#git clone git@github.com:tinyos/nesc.git
+	git clone https://github.com/tinyos/nesc.git
 fi
 
 cd $INSTALL_DIR/github
@@ -63,7 +64,8 @@ if [ -d $TINYOS_VERSION ]; then
 	cd $TINYOS_VERSION
 	git pull
 else
-	git clone git@github.com:tinyos/$TINYOS_VERSION.git
+	#git clone git@github.com:tinyos/$TINYOS_VERSION.git
+	git clone https://github.com/tinyos/$(TINYOS_VERSION).git
 fi
 
 cd $INSTALL_DIR/github
