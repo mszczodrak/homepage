@@ -9,6 +9,8 @@ include("../top.php");
 <li>Run script: <code>$ ./ubuntu_tools.sh</code></li>
 </ol>
 
+<h3>or install the following software</h3>
+
 <pre>
 <?php
 include("./scripts/ubuntu_tools.sh");

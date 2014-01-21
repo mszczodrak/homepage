@@ -14,7 +14,7 @@ need at least to download and install VMware Player, or VMware Workstation.
 Mac OS users need to download and install VMware Fusion. The official VMware
 Download Center can be found <a href="http://downloads.vmware.com/">here</a>.
 The Columbia University students who have Computer Science account, can download
-VMware software for free through <a href="https://www.cs.columbia.edu/crf/software/vmware/">
+VMware software for free through <a href="https://www.cs.columbia.edu/crf/software/VMware/">
 CRF website</a>.
 </p>
 
@@ -25,75 +25,17 @@ The image can be download from
 </p>
 -->
 
-<p>
-To ensure that you have all the necessary tools to work with, please install
-the following Ubuntu packages on your system:
-</p>
-
-<pre>
-sudo apt-get update
-sudo apt-get upgrade
-
-sudo apt-get install -y --assume-yes build-essential
-sudo apt-get install -y --assume-yes gcc
-sudo apt-get install -y --assume-yes g++
-sudo apt-get install -y --assume-yes terminator
-sudo apt-get install -y --assume-yes git
-sudo apt-get install -y --assume-yes ispell
-sudo apt-get install -y --assume-yes vim
-sudo apt-get install -y --assume-yes nmap
-sudo apt-get install -y --assume-yes cvs
-sudo apt-get install -y --assume-yes subversion
-sudo apt-get install -y --assume-yes git-core
-sudo apt-get install -y --assume-yes patch
-sudo apt-get install -y --assume-yes yum
-sudo apt-get install -y --assume-yes flex
-sudo apt-get install -y --assume-yes bison
-sudo apt-get install -y --assume-yes byacc
-sudo apt-get install -y --assume-yes mc
-sudo apt-get install -y --assume-yes lyx
-sudo apt-get install -y --assume-yes automake
-sudo apt-get install -y --assume-yes autoconf
-sudo apt-get install -y --assume-yes libtool
-sudo apt-get install -y --assume-yes sed
-sudo apt-get install -y --assume-yes wget
-sudo apt-get install -y --assume-yes coreutils
-sudo apt-get install -y --assume-yes unzip
-sudo apt-get install -y --assume-yes gawk
-sudo apt-get install -y --assume-yes diffstat
-sudo apt-get install -y --assume-yes make
-sudo apt-get install -y --assume-yes texlive-latex-base 
-sudo apt-get install -y --assume-yes texlive-math-extra 
-sudo apt-get install -y --assume-yes texlive-science 
-sudo apt-get install -y --assume-yes texlive-latex3 
-sudo apt-get install -y --assume-yes texlive-latex-extra 
-sudo apt-get install -y --assume-yes texlive-latex-recommended 
-sudo apt-get install -y --assume-yes ispell 
-sudo apt-get install -y --assume-yes vim 
-sudo apt-get install -y --assume-yes doxygen
-</pre>
-</p>
-
-
-<!--
-<p>
-From VMware software such as VMware Player or VMware Workstation (VMware Fusion on Mac), 
-start Ubuntu image. After the system starts please login with the following credentials:
-<br>
-<b>username:</b> user<br>
-<b>password:</b> userDev
-</p>
--->
+<h4>Ubuntu Working Environment</h4>
 
 <p>
-If you haven't changed your password yet, please do it This can be done by entering in the shell:
+For quick start, please make sure that the necessary software is installed on your PC.
 </p>
 
-<pre>
-$ passwd
-</pre>
+<p>
+For Ubuntu development configuration, please follow the <a href="../../Ubuntu">Ubuntu configuration page</a>.
+</p>
 
-<h4>Setup Public SSH Key</h4>
+<h4>SSH Key</h4>
 
 <p>
 All projects require revision control system that is authenticated through public
@@ -185,13 +127,13 @@ documentation looks like.
 <a href="http://www.ibm.com/developerworks/aix/library/au-learningdoxygen/">IBM Tutorial on Doxygen</a>.
 
 
-<h4>Start Working with Git</h4>
+<h4>Git</h4>
 
 <p>
-All project software is stored on a remote server and managed through 
+All projects software is stored on a remote server and managed through 
 <a href="http://git-scm.com/">git</a> version control system.
-Each project has a dedicated repository which stores source pre of
-programs and latex files. Please keep in mind that only source pre
+Each project has a dedicated repository which stores source code of
+programs and latex files. Please keep in mind that only source code
 should be stored in the repository. You should avoid pushing into
 the repository large files, or executable files. A simple rule to
 keep in mind is that, if it's not a file I can open with an editor
@@ -209,42 +151,11 @@ $ git config --global user.name "Your Name"
 $ git config --global user.email you@example.com
 </pre>
 
-<p>
-So let's say you are working on a project which repository is called
-<i>hello_world</i>. You can clone (download) a copy of all files stored
-in this repository as follows. In your working space, you can do:
-</p>
-
-<pre>
-$ cd ~/workspace
-$ git clone git@git.sld.cs.columbia.edu:<i>hello_world</i>.git
-</pre>
 
 <p>
-If you see request for a password:
-</p>
-
-<pre>git@git.sld.cs.columbia.edu's password:</pre>
-
-<p>
-then it means that your ssh-key is not properly configured. The same may happen
-when repository name or server name have been mistyped.
-If everything goes fine, you should see something that looks like this:
-</p>
-
-<pre>
-Cloning into hello_world...
-remote: Counting objects: 44, done.
-remote: Compressing objects: 100% (42/42), done.
-remote: Total 44 (delta 18), reused 0 (delta 0)
-Receiving objects: 100% (44/44), 7.39 KiB, done.
-Resolving deltas: 100% (18/18), done.
-</pre>
-
-<p>
-There will be also a new folder in your <code>~/workspace</code> 
-called the same way as your project repository name; 
-in this example <code>hello_world</code>.
+You will also need an account on the <a href="https://github.com/">GitHub</a>.
+Please make sure that your account is working. As a simple test, please create
+one public repository, clone it to the local PC and push some changes.
 </p>
 
 <p>
@@ -264,71 +175,7 @@ The complete list and explanation can be found at
 <a href="http://git-scm.com/documentation">git documentation website</a>. 
 </p>
 
-<p>
-Try to use the git by adding a new file and modifying it.
-First, enter repository directory:
-</p>
-
-<pre>
-$ cd ~/workspace
-$ cd <i>hello_world</i>
-</pre>
-
-<p>
-Second, create a file and write something in the file:
-</p>
-
-<pre>
-$ touch test_file.txt<br>
-$ vi test_file
-</pre>
-
-<p>
-Note that to start typing in vi, press <b>i</b>, to save and close file, press <b>ESC</b> 
-and enter <b>:wq</b>.
-</p>
-
-<p>
-Third, add file to repository control:
-</p>
-
-<pre>
-$ git add test_file.txt
-</pre>
-
-<p>
-Next, save the file current version in the local repository:
-</p>
-
-<pre>
-$ git commit -a -m "This is a test file"
-</pre>
-
-<p>
-You can check the file status by entering:
-</p>
-
-<pre>
-$ git status
-</pre>
-
-<p>
-Finally, send the current version of the repository to the server:
-</p>
-
-<pre>
-$ git push
-</pre>
-
-<p>
-You can see the history log by entering:
-</p>
-
-<pre>
-$ git log
-</pre>
-
-<h4>Start Working with Latex</h4>
+<h4>Latex</h4>
 
 <p>
 All project official documentation is written in latex.
@@ -360,6 +207,35 @@ $ ispell hello_world.txt
 In the same way as in coding we fit the text of the source code in 80 columns,
 make sure to keep the latex source within 80 columns.
 </p>
+
+
+<h4>Wireless Sensor Network / Internet-of-Things / Cyber-Physical Systems</h4>
+
+<p>
+Install TinyOS by following either the online 
+<a href="http://tinyos.stanford.edu/tinyos-wiki/index.php/Installing_TinyOS">TinyOS documentation</a>,
+or the recommended 
+<a href="../../wsn/">TinyOS script that installs the tools and the system from the source</a>.
+This script will setup the development version of TinyOS, which is available at
+<a href="https://github.com/tinyos/tinyos-main">GitHub</a>.
+</p>
+
+<p>
+With TinyOS in your <pre>~/github/tinyos</pre> directory, please follow the 
+<a href="http://tinyos.stanford.edu/tinyos-wiki/index.php/TinyOS_Tutorials">TinyOS Tutorials</a>.
+</p>
+
+<p>
+To start, please follow the first four tutorials:
+<ul>
+<li><a href="http://tinyos.stanford.edu/tinyos-wiki/index.php/Getting_Started_with_TinyOS">Getting Started with TinyOS</a></li>
+<li><a href="http://tinyos.stanford.edu/tinyos-wiki/index.php/Modules_and_the_TinyOS_Execution_Model">Modules and the TinyOS Execution Model</a></li>
+<li><a href="http://tinyos.stanford.edu/tinyos-wiki/index.php/Mote-mote_radio_communication">Mote-mote radio communication</a></li>
+<li><a href="http://tinyos.stanford.edu/tinyos-wiki/index.php/Mote-PC_serial_communication_and_SerialForwarder">Mote-PC serial communication and SerialForwarder (TOS 2.1.1 and later)</a></li>
+<li><a href="http://tinyos.stanford.edu/tinyos-wiki/index.php/The_TinyOS_printf_Library">The TinyOS printf Library</a></li>
+<li><a href="http://tinyos.stanford.edu/tinyos-wiki/index.php/Dissemination">Dissemination</a></li>
+</ul>
+
 
 <!--
 <h4>Installing Fox Family Software</h4>

@@ -1,6 +1,8 @@
 #!/bin/bash
 # Marcin Szczodrak
 
+sudo apt-get update
+sudo apt-get upgrade
 sudo apt-get install -y --assume-yes autoconf
 sudo apt-get install -y --assume-yes automake
 sudo apt-get install -y --assume-yes bison
