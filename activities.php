@@ -6,10 +6,10 @@
       System Level Design Group</a>, under supervision of prof. <a href="http://www.cs.columbia.edu/~luca/">
       Luca Carloni</a>.
   <li>Focus of my research is cyber-physical systems and building automation systems
-  <li>Designed and developed <a href="http://smartcity.cs.columbia.edu/fennecfox">
+  <li>Designed and developed <a href="http://smartcity.cs.columbia.edu">
       Fennec Fox Framework and Swift Fox programming language</a>
   <li>Research Interests: <a href = "./wsn/">Wireless Sensor Networks</a>,
-      <a href="http://smartcity.cs.columbia.edu">Embedded Systems</a>,
+      Embedded Systems, Internet-of-Things,
       Network Management and Reconfiguration, Low-Power Radio Devices,
       Software-defined Radio, Pervasive computing
   <li>Readings: everything related to green smart technology improving our 
