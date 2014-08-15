@@ -17,7 +17,7 @@
       Smart Buildings, Intelligent Planet, etc
   <li><b>Mentoring Student Projects:</b> - <a href="./projects">Introduction to Projects</a>
     <ul>
-      <li><a href="./projects/2013-Spring-CS">Exploration of the Utilization of Compressed Sensing in Image Compression</a> (Spring 2014)
+      <li><a href="./projects/2014-Spring-WSN">Distributed Computation of Average Temperature within Wireless Sensor Networks</a> (Spring 2014)
       <li><a href="./projects/2013-Spring-CS">Exploration of the Utilization of Compressed Sensing in Image Compression</a> (Spring 2013)
       <li><a href="./projects/2013-Spring-Hadoop">Implementing Multi-cast Data Replication for Hadoop</a> (Spring 2013)
       <li><a href="./projects/2012-Fall-CS">Compressive Sampling on Hadoop</a> (Fall 2012)
