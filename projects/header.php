@@ -30,6 +30,7 @@ if (location.href.indexOf("www.cs.columbia.edu/~msz") == -1){
 	<li><a href="/~msz/projects/2012-Fall-WSNApps">2012-Fall-WSNApps</a></li>
 	<li><a href="/~msz/projects/2013-Spring-CS">2013-Spring-CS</a></li>
 	<li><a href="/~msz/projects/2013-Spring-Hadoop">2013-Spring-Hadoop</a></li>
+	<li><a href="/~msz/projects/2014-Spring-WSN">2014-Spring-WSN</a></li>
 	<li><a href="/~msz/projects/Starting_Project">Starting Project</a></li>
 
 </ul>
