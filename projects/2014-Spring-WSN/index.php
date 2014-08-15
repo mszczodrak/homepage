@@ -2,24 +2,34 @@
 include("../header.php");
 ?>
 
-<h2>Exploration of the Utilization of Compressed Sensing in Image Compression - Spring 2013</h2>
+<h2>Distributed Computation of Average Temperature within Wireless Sensor Networks - Spring 2014</h2>
 
 <p>
-Over the past decade, a new phenomenon known as compressed sampling has been
-developed to improve on the classical Nyquist-Shannon Sampling Theorem. 
-Unlike the classical theorem, which states that the sampling frequency must 
-be at least twice the maximum frequency present in the signal, compressed 
-sampling leverages the sparsity of signals to enable sampling at much lower 
-rates. The motivation of this project is using compressed sampling to
-compress images at improved levels.
+Due to various constraints in power and computational ability of sensors, 
+Wireless Sensor Networks (WSNs) have maintained a specific
+centralize architecture. In this architecture a sink node, or central hub, 
+collects data from all nodes in the network via one hop or through 
+multiple hop communication through other nodes. In many scenarios, 
+this central or sink nodes communicates with a more powerful source of
+computing capability (traditionally a computer, but recently the cloud) 
+to process the data and then actuate on the findings. Though stable 
+and highly used, the centralized  architecture has significant drawbacks
+surrounding latency, security, and energy consumption that have made 
+it difficult for WSN to truly react to environments and be capable of
+executing 21st century WSN applications. Issues with latency arise 
+usually in the communication between WSN and external computing power. 
+Failure of data transfer in these bottleneck parts of the architecture
+can impact robustness, as well as provide a security weakness. 
+Most importantly, the collection of the data and its transfer to an
+external source tends to encroach issues of privacy.
 </p>
 
 <br>
 <b>Students: </b>Sameer Lal<br>
 <br>
-<b>Documents: </b><a href="final_report.pdf">Final Report: Exploration of the Utilization of Compressed Sensing in Image Compression</a><br>
+<b>Documents: </b><a href="final_report.pdf">Final Report: Distributed Computation of Average Temperature within Wireless Sensor Networks</a><br>
 <br>
-<b>Date: </b>May 2013<br>
+<b>Date: </b>May 2014<br>
 <br>
 
 <?php
