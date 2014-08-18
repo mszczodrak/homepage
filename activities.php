@@ -32,6 +32,8 @@
 <h4>Past Activities</h4>
 <p>
 <ul>
+  <li>Low-Power Wireless Networks for Smart-Home Appliances at
+      <a href="https://nest.com/about/">Nest Labs</a> (Summer 2014)
   <li>Big Data Analytics for Distributed Self-Controlling Outdoor Lighting at 
       <a href="http://www.research.philips.com/locations/briarcliff.html">Philips Research North America</a> (Summer 2013)
   <li>Outdoor Low-Power Wireless Testbed for SmartCity at 
