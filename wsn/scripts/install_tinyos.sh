@@ -1,7 +1,7 @@
 #!/bin/bash
 # Author: Marcin Szczodrak 
 # Email: marcin@ieee.org
-# Last Updated: October 18, 2013
+# Last Updated: August 18, 2014
 
 INSTALL_DIR=/home/$USER
 PROFILE_FILE=/home/$USER/.profile
@@ -93,29 +93,27 @@ cd tinyos/tools
 make
 make install
 
-
 # Installing compilers
-echo 'Installing compilers provided by TinyProd'
-gpg --keyserver keyserver.ubuntu.com --recv-keys 34EC655A
-gpg -a --export 34EC655A | sudo apt-key add -
+#echo 'Installing compilers provided by TinyProd'
+#gpg --keyserver keyserver.ubuntu.com --recv-keys 34EC655A
+#gpg -a --export 34EC655A | sudo apt-key add -
 
-export TOSPROD="/etc/apt/sources.list.d/tinyprod-debian.list"
-echo "deb http://tinyprod.net/repos/debian squeeze main" | sudo tee $TOSPROD
-echo "deb http://tinyprod.net/repos/debian msp430-46 main" | sudo tee -a $TOSPROD
+export TOSSTAN="/etc/apt/sources.list.d/tinyon-stanford-debian.list"
+echo "deb http://tinyos.stanford.edu/tinyos/dists/ubuntu natty main" | sudo tee $TOSSTAN
 
 sudo apt-get update
-sudo apt-get install -y --assume-yes msp430-46
-sudo apt-get install -y --assume-yes avr-tinyos
+sudo apt-get install -y --force-yes msp430-46
+sudo apt-get install -y --force-yes avr-tinyos
 sudo apt-get remove -y --assume-yes tinyos-tools
 
 # Set environmental variables
 echo 'Setting environmental variables'
 echo " " | sudo tee -a $PROFILE_FILE
 echo "# Set the envoronment variables for TinyOS" | sudo tee -a $PROFILE_FILE
-echo export TOSROOT=$INSTALL_DIR/github/tinyos | sudo tee -a $PROFILE_FILE
-echo export TOSDIR=$INSTALL_DIR/github/tinyos/tos | sudo tee -a $PROFILE_FILE
+#echo export TOSROOT=$INSTALL_DIR/github/tinyos | sudo tee -a $PROFILE_FILE
+#echo export TOSDIR=$INSTALL_DIR/github/tinyos/tos | sudo tee -a $PROFILE_FILE
 echo export CLASSPATH=$INSTALL_DIR/github/tinyos/support/sdk/java/tinyos.jar:. | sudo tee -a $PROFILE_FILE
-echo export MAKERULES=$INSTALL_DIR/github/tinyos/support/make/Makerules | sudo tee -a $PROFILE_FILE
+#echo export MAKERULES=$INSTALL_DIR/github/tinyos/support/make/Makerules | sudo tee -a $PROFILE_FILE
 echo export PATH=$PATH:$INSTALL_DIR/tools/tinyos-tools/bin:$INSTALL_DIR/tools/usr/bin | sudo tee -a $PROFILE_FILE
 echo export PYTHONPATH=.:$INSTALL_DIR/github/tinyos/support/sdk/python:$PYTHONPATH | sudo tee -a $PROFILE_FILE
 echo export MOTECOM=serial@/dev/ttyUSB0:115200 >> $PROFILE_FILE
