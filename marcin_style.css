@@ -61,3 +61,33 @@ a:visited {
 	background: #fff;
 	color: #000080;
 	}
+
+#lmenu {
+	margin: 0;
+	float: left;
+	width: 20%;
+	height: 90%;
+	}
+
+#lmenu li {
+	margin: 0; 
+	padding: 0;
+	display: inline;
+	list-style-type: none;
+	}
+
+#lmenu a:link, #lmenu a:visited {
+	float: left;
+	font-size: 12px;
+	font-weight: bold;
+	margin: 0 10px 4px 10px;
+	padding-bottom: 2px;
+	text-decoration: none;
+	color: #000080;
+	}
+
+#belowmenu {
+	clear:both;
+}
+
+

@@ -1,9 +1,10 @@
-<div align="center">
+<div id="belowmenu"></div>
+<div align="center" clear:"both">
 <font size="-2"> <b>Copyright <a href="http://www.cs.columbia.edu/~msz">Marcin Szczodrak</a> 2005-2014</b></font>
 </div>
 
-</div>
 
+</div>
 <!-- Google Tracking -->
 
 <script type="text/javascript">
