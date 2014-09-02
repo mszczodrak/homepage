@@ -21,8 +21,7 @@ More @ <a href="http://github.com/mszczodrak/fennec-fox/wiki">Project Website</a
 </td></tr>
 
 
-<tr>
-<td>
+<tr><td>
 <center>
 <b>Swift Fox</b><br>
 <img src="./pics/swift_fox_arch_small.png" width="200">
@@ -37,12 +36,28 @@ Flex is a tool for generating lexical analyzers and it is an open version
 of lex. Bison is a parser generator and it is a GNU version of yacc. 
 The generated output of the Swift Fox program is nesC code.
 More @ <a href="http://github.com/mszczodrak/swift-fox/wiki">Project Website</a> 
+</td></tr>
+
+
+<tr><td>
+<center>
+<b>Hardware-Software-Network Codesign</b><br>
+<img src="./pics/hw_sw_net.png" width="200">
+</center>
 </td>
-</tr>
-
-
-<tr>
 <td>
+<b>Hardware-Software-Network Codesign</b> for Internet-of-Things
+introduces a new development environment for wireless
+embedded devices that consists of hardware platform simulator, 
+embedded software running on the simulated instruction-accurate hardware, 
+and wireless communication. Our simulator supports two modes of operation:
+standalone with hardware, software and network simulation running on a
+single machine, and testbed mode, with radio hardware-in-the-loop 
+replacing the simulated wireless communication.
+</td></tr>
+
+
+<tr><td>
 <center>
 <b>GOALI Project</b><br>
 <img src="./pics/goali_idea_small.png" width="200">
@@ -57,8 +72,7 @@ we focus on development of centralized and distributed occupancy
 estimation algorithms and deployment of those algorithms in
 buildings with supported cyber infrastructure, such as
 wireless networks of sensors and actuators supported with cloud computing.
-</td>
-</tr>
+</td></tr>
 
 
 </table>
