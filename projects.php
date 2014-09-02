@@ -41,6 +41,36 @@ More @ <a href="http://github.com/mszczodrak/swift-fox/wiki">Project Website</a>
 </tr>
 
 
+<tr>
+<td>
+<center>
+<b>GOALI Project</b><br>
+<img src="./pics/goali_idea_small.png" width="200">
+</center>
+</td>
+<td>
+<b>GOALI Project</b> is NSF sponsored project researching
+methods for network-enabled embedded monitoring and
+control for high-performance buildings. Because building occupancy
+has high-impact on building's energy consumption (HVAC, Light, etc)
+we focus on development of centralized and distributed occupancy 
+estimation algorithms and deployment of those algorithms in
+buildings with supported cyber infrastructure, such as
+wireless networks of sensors and actuators supported with cloud computing.
+</td>
+</tr>
+
+
+</table>
+</p>
+
+
+<h4>Past Projects</h4>
+
+
+<p>
+<table cellpadding=10 cellspacing=20 frame=box>
+
 <tr><td>
 <center>
 <b>Open Testbed Framework</b><br>
@@ -54,6 +84,23 @@ communication architecture for systems monitoring environment, such as
 Wireless Sensor Networks (WSN), and systems interacting with the surrounding 
 environment through sensors and actuators, referred to as Cyber-Physical Systems (CPS).
 More @ <a href="http://github.com/mszczodrak/otf/wiki">Project Website</a>
+</td></tr>
+
+
+<tr><td>
+<center>
+<b>EnHANTs</b><br>
+<img src="./pics/enhants.png" width="200">
+</center>
+</td><td align="left">
+<b>Energy-Harvesting Active Networked Tags (EnHANTs)</b>
+are small, flexible, and energetically self-reliant devices that can be 
+attached to objects that are traditionally not networked (e.g., books, furniture, 
+walls, doors, toys, keys, clothing, and produce), thereby providing the 
+infrastructure for various novel tracking applications. Examples of these 
+applications include locating misplaced items, continuous monitoring of 
+objects (items in a store, boxes in transit), and determining locations of 
+disaster survivors.
 </td></tr>
 
 
@@ -79,26 +126,6 @@ More @ <a href="https://github.com/mszczodrak/fennec-fox/wiki/CapeFox-Simulator"
 </td></tr>
 
 
-<tr>
-<td>
-<center>
-<b>GOALI Project</b><br>
-<img src="./pics/goali_idea_small.png" width="200">
-</center>
-</td>
-<td>
-<b>GOALI Project</b> is NSF sponsored project researching
-methods for network-enabled embedded monitoring and
-control for high-performance buildings. Because building occupancy
-has high-impact on building's energy consumption (HVAC, Light, etc)
-we focus on development of centralized and distributed occupancy 
-estimation algorithms and deployment of those algorithms in
-buildings with supported cyber infrastructure, such as
-wireless networks of sensors and actuators supported with cloud computing.
-</td>
-</tr>
-
-
 <tr><td>
 <center>
 <b>LPWN Benchmarking</b><br>
@@ -108,15 +135,9 @@ wireless networks of sensors and actuators supported with cloud computing.
 As part of this project we design a set of wireless sensor and actuator
 applications to benchmark the performance of lpwn hardware architectures.
 </td></tr>
-</table>
-</p>
 
 
-<h4>Past Projects</h4>
-
-<p>
-<table cellpadding=10 cellspacing=20 frame=box>
-<tr><td width="200">
+<tr><td>
 <center>
 <b>LPWN-IP</b><br>
 <img src="./pics/lpwn_idea_small.png" width="200">
@@ -132,23 +153,6 @@ we design a network operating in two modes: standard IP and non-standard
 using ad-hoc protocols. 
 </td>
 </tr>
-
-
-<tr><td>
-<center>
-<b>EnHANTs</b><br>
-<img src="./pics/enhants.png" width="200">
-</center>
-</td><td align="left">
-<b>Energy-Harvesting Active Networked Tags (EnHANTs)</b>
-are small, flexible, and energetically self-reliant devices that can be 
-attached to objects that are traditionally not networked (e.g., books, furniture, 
-walls, doors, toys, keys, clothing, and produce), thereby providing the 
-infrastructure for various novel tracking applications. Examples of these 
-applications include locating misplaced items, continuous monitoring of 
-objects (items in a store, boxes in transit), and determining locations of 
-disaster survivors.
-</td></tr>
 
 
 </table>
