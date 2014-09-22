@@ -106,7 +106,7 @@ echo 'Setting environmental variables'
 echo " " | sudo tee -a $PROFILE_FILE
 echo "# Set the envoronment variables for TinyOS" | sudo tee -a $PROFILE_FILE
 echo export CLASSPATH=$INSTALL_DIR/github/tinyos/support/sdk/java/tinyos.jar:. | sudo tee -a $PROFILE_FILE
-echo export PATH=$PATH:$INSTALL_DIR/tools/tinyos-tools/bin:$INSTALL_DIR/tools/usr/bin | sudo tee -a $PROFILE_FILE
+echo export PATH=\$PATH:$INSTALL_DIR/tools/tinyos-tools/bin:$INSTALL_DIR/tools/usr/bin:/opt/msp430-46/bin | sudo tee -a $PROFILE_FILE
 echo export PYTHONPATH=.:$INSTALL_DIR/github/tinyos/support/sdk/python:$PYTHONPATH | sudo tee -a $PROFILE_FILE
 echo export MOTECOM=serial@/dev/ttyUSB0:115200 >> $PROFILE_FILE
 echo " " | sudo tee -a $PROFILE_FILE
