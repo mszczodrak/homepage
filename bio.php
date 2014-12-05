@@ -3,8 +3,9 @@
 <p>
 Marcin is a Ph.D. Candidate in the <a href="http://www.cs.columbia.edu">
 Computer Science</a> department of the <a href="http://www.columbia.edu">
-Columbia University</a>, working with <a href="http://www.cs.columbia.edu/~luca/">
-Professor Luca Carloni</a>. Marcin research interests are in the areas of systems, networking,
+Columbia University</a>.
+<!-- working with <a href="http://www.cs.columbia.edu/~luca/"> Professor Luca Carloni</a>. -->
+Marcin research interests are in the areas of systems, networking,
 and big data. His recent publications are on low-power and energy-aware wireless 
 embedded systems, wireless sensor and actuator networks, and cyber-physical systems,
 with a focus on enabling industrial-level system modeling, development, and installation. 
