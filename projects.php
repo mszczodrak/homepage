@@ -1,5 +1,5 @@
 <a name="projects"></a>
-<h4>Projects</h4>
+<h4>Past Projects</h4>
 
 <div id="projects">
 <p>
@@ -77,9 +77,6 @@ wireless networks of sensors and actuators supported with cloud computing.
 
 </table>
 </p>
-
-
-<h4>Past Projects</h4>
 
 
 <p>
