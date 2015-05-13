@@ -1,4 +1,0 @@
-#AuthName "Marcin Dissertation"
-#AuthType Basic
-#AuthUserFile /home/msz/github/homepage/dissertation/.htpasswd
-#require valid-user
