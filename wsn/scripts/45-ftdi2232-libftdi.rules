@@ -1,6 +1,0 @@
-#Olimex
-SYSFS{idProduct}=="0004", SYSFS{idVendor}=="15ba", MODE="666", GROUP="plugdev"
-#FT2232C
-SYSFS{idProduct}=="6010", SYSFS{idVendor}=="0403", MODE="666", GROUP="plugdev"
-
-

@@ -1,6 +1,0 @@
-AuthType Basic
-AuthName "Restricted Access"
-AuthUserFile /home/msz/workspace/marcin/cscu_homepage/projects/source/passwords
-require valid-user
-
-IndexIgnore passwords .htaccess
