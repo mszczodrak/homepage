@@ -13,6 +13,9 @@ homepage
 # NVIDIA
 * []
 
+# HuggingFace
+* (Stable Diffusion Image Variations)[https://huggingface.co/spaces/lambdalabs/stable-diffusion-image-variations]
+
 # VSCode
 * [VSCode ChatGPT plugin](https://github.com/mpociot/chatgpt-vscode)
 
