@@ -11,7 +11,7 @@ homepage
 * [Artificial Intelligence for Robotics](https://learn.udacity.com/courses/cs373)
 
 # NVIDIA
-* []
+* [Open-Source Fleet Management Tools for Autonomous Mobile Robots](https://developer.nvidia.com/blog/open-source-fleet-management-tools-for-autonomous-mobile-robots/)
 
 # HuggingFace
 * (Stable Diffusion Image Variations)[https://huggingface.co/spaces/lambdalabs/stable-diffusion-image-variations]
