@@ -8,3 +8,6 @@ homepage
 
 # Robotics
 * [Artificial Intelligence for Robotics](https://learn.udacity.com/courses/cs373)
+
+# VSCode
+* [VSCode ChatGPT plugin](https://github.com/mpociot/chatgpt-vscode)
