@@ -9,7 +9,7 @@
 
 ## Machine Learning
 * [Fast AI](https://course.fast.ai/)
-* ** [Fast AI Book](https://course.fast.ai/Resources/book.html)
+** [Fast AI Book](https://course.fast.ai/Resources/book.html)
 
 ## Robotics
 * [Artificial Intelligence for Robotics](https://learn.udacity.com/courses/cs373)
