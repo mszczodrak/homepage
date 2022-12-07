@@ -1,7 +1,8 @@
 # Learning
 
 ## Mathematics
-* [Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=1)
+* [Linear Algebra 3Brown1Blue](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=1)
+* [Computational Linear Algebra](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
 
 ## Machine Learning
 * [Fast AI](https://course.fast.ai/)
