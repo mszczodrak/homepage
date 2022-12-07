@@ -4,6 +4,9 @@
 * [Linear Algebra 3Brown1Blue](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=1)
 * [Computational Linear Algebra](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
 
+## Notebooks
+* [Notebooks 101](https://www.kaggle.com/code/jhoward/jupyter-notebook-101)
+
 ## Machine Learning
 * [Fast AI](https://course.fast.ai/)
 
