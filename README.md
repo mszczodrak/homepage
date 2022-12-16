@@ -12,6 +12,7 @@
 * [Fast AI](https://course.fast.ai/)
   * [Fast AI Book](https://course.fast.ai/Resources/book.html)
 * [NYU DL](https://atcold.github.io/NYU-DLSP21/)
+* [Deep Reinforcement Learning](https://rail.eecs.berkeley.edu/deeprlcourse/)
 
 ## Robotics
 * [Artificial Intelligence for Robotics](https://learn.udacity.com/courses/cs373)
