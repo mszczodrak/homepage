@@ -18,6 +18,9 @@
 * [Artificial Intelligence for Robotics](https://learn.udacity.com/courses/cs373)
 * [NVIDIA Learning](https://www.nvidia.com/en-us/training/online/)
 
+## NLP
+* [Tokenizer](https://github.com/openai/tiktoken)
+
 ## Leadership
 * [Awesome CTO](https://github.com/kuchin/awesome-cto)
 
