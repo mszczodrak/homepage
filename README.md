@@ -8,6 +8,7 @@
 * [Notebooks 101](https://www.kaggle.com/code/jhoward/jupyter-notebook-101)
 
 ## Machine Learning
+* [Introduction to AI](https://inst.eecs.berkeley.edu/~cs188/fa22/)
 * [Fast AI](https://course.fast.ai/)
   * [Fast AI Book](https://course.fast.ai/Resources/book.html)
 * [NYU DL](https://atcold.github.io/NYU-DLSP21/)
