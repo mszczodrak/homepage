@@ -45,3 +45,4 @@
 
 ## VSCode
 * [VSCode ChatGPT plugin](https://github.com/mpociot/chatgpt-vscode)
+* [Tabine AI Autocomplete](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
