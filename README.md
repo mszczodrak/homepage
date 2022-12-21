@@ -7,6 +7,9 @@
 ## Notebooks
 * [Notebooks 101](https://www.kaggle.com/code/jhoward/jupyter-notebook-101)
 
+# AI Software
+* [OpenAI](https://github.com/openai/openai-cookbook)
+
 ## Machine Learning
 * [Introduction to AI](https://inst.eecs.berkeley.edu/~cs188/fa22/)
 * [Fast AI](https://course.fast.ai/)
